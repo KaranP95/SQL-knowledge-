@@ -1,4 +1,4 @@
--- Karan Patel 16.1 SQL self-sufficiency exam
+-- Karan Patel SQL self-sufficiency exam
 
 -- 1. Write a query that allows you to inspect the schema of the naep table.
 
